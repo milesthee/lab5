@@ -1,0 +1,32 @@
+Script started on 2022-09-29 13:51:45-04:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="211" LINES="50"]
+[?2004h]0;me767720@DESKTOP-RR8J2MH: ~/2400/Labs/lab5[01;32mme767720@DESKTOP-RR8J2MH[00m:[01;34m~/2400/Labs/lab5[00m$ ./tempdata
+[?2004lHello user!
+We will be recording temperature data for the month of September.
+Enter the value '-100' at any time to end the task.
+Enter high and low temperatures for September 1 pressing 'Enter' after each: 99
+76
+Enter high and low temperatures for September 2 pressing 'Enter' after each: 54
+33
+Enter high and low temperatures for September 3 pressing 'Enter' after each: 20
+-20
+Enter high and low temperatures for September 4 pressing 'Enter' after each: 103
+98
+Enter high and low temperatures for September 5 pressing 'Enter' after each: 43
+32
+Enter high and low temperatures for September 6 pressing 'Enter' after each: 90
+54
+Enter high and low temperatures for September 7 pressing 'Enter' after each: -100
+5
+----- September Temperatures -----
+  Date:       High:        Low:   
+  1           99           76
+  2           54           33
+  3           20           -20
+  4           103           98
+  5           43           32
+  6           90           54
+High of month: 103     Low of month: -20
+[?2004h]0;me767720@DESKTOP-RR8J2MH: ~/2400/Labs/lab5[01;32mme767720@DESKTOP-RR8J2MH[00m:[01;34m~/2400/Labs/lab5[00m$ [?2004l
+exit
+
+Script done on 2022-09-29 13:53:21-04:00 [COMMAND_EXIT_CODE="0"]
